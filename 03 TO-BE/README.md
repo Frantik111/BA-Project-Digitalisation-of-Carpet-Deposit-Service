@@ -1,12 +1,10 @@
 # 03 TO-BE - Budúci Stav Procesu
 
-## Popis priečinka
+## ℹ️ Popis priečinka
 
 Priečinok `03 TO-BE` obsahuje dokumentáciu budúceho stavu (TO-BE - To Be) digitalizovaného procesu služby depozitu kobercov. Ide o cieľový stav po implementácii digitalizácie vrátane všetkých očakávaných zlepšení a optimalizácií.
 
-## Obsah priečinka
-
-### BPMN Model
+### 📊 BPMN Model
 
 #### 📄 [BMPN Processes.bpmn](BMPN%20Processes.bpmn)
 Úplný Business Process Model and Notation (BPMN) model popisujúci budúcich procesov. Súbor obsahuje detailnú špecifikáciu nasledovných procesov:
@@ -33,7 +31,7 @@ Vo formáte *.bpmn vytvorený v https://bpmn.io/
 - Ukážka procesu, digitalizované sub-procesy
 
 
-### Screenshots
+### 🖼️ Screenshots
 
 Priečinok obsahuje obrázky procesov z bpmn súboru:
 - **BPMN 1.jpg** - Diagram vytvorenia zápožičky
@@ -42,7 +40,7 @@ Priečinok obsahuje obrázky procesov z bpmn súboru:
 - **BPMN 2-1.jpg, BPMN 2-2.jpg** - Detaily podprocesov
 - **BPMN 3.jpg** - Diagram notifikačného systému
 
-## Business Analytický Pohľad
+## 📊 Business Analytický Pohľad
 
 ### Zlepšenia v porovnaní s AS-IS
 
