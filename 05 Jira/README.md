@@ -1,26 +1,27 @@
-## 🧩 Analysis Board – Business Analyst Workflow in Jira
+## 🧩 **Analysis Board – Workflow business analytika v Jira**
 
-This screenshot showcases my structured approach to business analysis using Jira (Company-managed project).  
-I designed the Analysis Board to reflect the BA lifecycle: from backlog triage to refinement and delivery readiness.
+Tento screenshot zachytáva môj štruktúrovaný prístup k business analýze v Jira (Company‑managed projekt).  
+Analysis Board som navrhol tak, aby odrážal celý BA lifecycle – od triáže backlogu až po refinement a pripravenosť na vývoj.
 
-**Highlights:**
-- Epic-based backlog organization (color-coded by domain)
-- User story decomposition into BA subtasks (e.g. TO-BE process, data model, UI wireframe)
-- Clear workflow: TO DO → IN ANALYSIS → READY FOR DEV
-- Story refinement example: "Vyhľadanie klienta" with 7 analytical subtasks
+**Hlavné body:**
+- Organizácia backlogu podľa epikov (farebne rozlíšené podľa domény)
+- Rozpad používateľských príbehov na BA podúlohy (napr. TO‑BE proces, dátový model, UI wireframe)
+- Jasný workflow: **TO DO → IN ANALYSIS → READY FOR DEV**
+- Príklad refinementu: „Vyhľadanie klienta“ so 7 analytickými podúlohami
 
-This setup mirrors real-world corporate Jira usage in banking, telco, and retail IT environments.
+Toto nastavenie odráža reálne korporátne používanie Jira v bankovníctve, telekome a retail IT prostredí.
 
+---
 
-## 🔍 BA Task: AS-IS Process – Client Search
+## 🔍 **BA úloha: AS‑IS proces – Vyhľadanie klienta**
 
-This screenshot documents my analysis of the current (AS-IS) process for client search within the Carpet Deposit Service project.  
-It is part of the refinement work for the user story "Vyhľadanie klienta" (Client Search).
+Tento screenshot dokumentuje moju analýzu aktuálneho (AS‑IS) procesu vyhľadania klienta v rámci projektu Carpet Deposit Service.  
+Je súčasťou refinementu pre user story „Vyhľadanie klienta“.
 
-**Key insights:**
-- Current process relies on Excel forms with no data validation
-- Frequent errors due to inconsistent input formats (e.g. casing, field order)
-- High duplication rate due to missing unique identifiers
-- Pain point: incomplete client data blocks downstream processing
+**Kľúčové zistenia:**
+- Súčasný proces sa spolieha na Excel formuláre bez validácie dát
+- Časté chyby spôsobené nekonzistentnými formátmi vstupov (napr. veľkosť písmen, poradie polí)
+- Vysoká miera duplicít kvôli chýbajúcim unikátnym identifikátorom
+- Kritický problém: neúplné údaje o klientovi blokujú následné spracovanie
 
-This task is linked to the parent story and forms the basis for TO-BE process design, UI wireframes, and acceptance criteria.
+Táto úloha je prepojená s nadradeným user story a tvorí základ pre návrh TO‑BE procesu, UI wireframov a akceptačných kritérií.
