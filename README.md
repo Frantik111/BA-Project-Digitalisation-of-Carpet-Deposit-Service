@@ -31,3 +31,18 @@
 7. **Conclusion**
    - Lessons learned.
    - Ako by sa projekt dal ďalej rozšíriť.
+
+01 AS-IS
+02 Stakeholderi
+03 TO-BE
+- schemy
+Data Preparation
+ - powerquery
+DaschBoard
+ - PowerBI
+JIRA
+ - backlog
+MOCKUPS
+ - Figma - ukážka softwaru
+
+Extra - Flowable
