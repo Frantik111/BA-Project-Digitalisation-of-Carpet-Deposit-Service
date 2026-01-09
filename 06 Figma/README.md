@@ -14,9 +14,9 @@ Viewframy vizualizujú kľúčové obrazovky MVP riešenia z pohľadu používat
 
 | Názov súboru         | Popis obrazovky                                      |
 |----------------------|------------------------------------------------------|
-| `03 Customer` | Vyhľadávanie existujúcich zákazníkov a ich správa   |
-| `02 Deposit`  | Detail depozitu – produkty, ceny, akcie, stav       |
 | `01 List Of Deposits`| Prehľad všetkých depozitov – filtre, stavy, sumy    |
+| `02 Deposit`  | Detail depozitu – produkty, ceny, akcie, stav       |
+| `03 Customer` | Vyhľadávanie existujúcich zákazníkov a ich správa   |
 
 
 ## 📌 Poznámky
@@ -25,4 +25,16 @@ Viewframy vizualizujú kľúčové obrazovky MVP riešenia z pohľadu používat
 - Používateľské role: predajca
 - Stavové premeny depozitu: `Open`, `Sold`, `Returned`, `Overdue`, `Re-Order`
 
+## 🖼️ Screenschoty CRUD aplikácie
 
+Zoznam všetkých depozitov
+
+![01 List Of Deposits](/06%20Figma/01%20List%20Of%20Deposits.jpg)
+
+Detail Depozitu
+
+![02 Deposit](/06%20Figma/02%20Deposit.jpg)
+
+Výber klienta
+
+![03 Customer](/06%20Figma/03%20Customer.jpg)
